@@ -9,7 +9,7 @@ document.getElementById("yt").onclick = function () {
 }
 
 document.getElementById("gm").onclick = function () {
-    window.location = "https://krishnasugosa.github.io/whatsapp-jump/"
+    window.location = "https://krishnasugosa.github.io/whatsApp-jump/"
 }
 
 document.getElementById("gi").onclick = function () {
