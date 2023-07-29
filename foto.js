@@ -5,7 +5,7 @@ function purple() {
 }
 
 document.getElementById("yt").onclick = function () {
-    window.location = "https://www.youtube.com/@code.shreek"
+    window.location = "https://www.youtube.com/@bromanSuper"
 }
 
 document.getElementById("gm").onclick = function () {
